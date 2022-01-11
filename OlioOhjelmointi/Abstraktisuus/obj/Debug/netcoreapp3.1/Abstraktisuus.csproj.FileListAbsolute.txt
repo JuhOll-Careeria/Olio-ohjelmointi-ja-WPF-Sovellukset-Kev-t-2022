@@ -1,0 +1,13 @@
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.exe
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.deps.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.runtimeconfig.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.runtimeconfig.dev.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.AssemblyInfoInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.AssemblyInfo.cs
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.csproj.CoreCompileInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.genruntimeconfig.cache

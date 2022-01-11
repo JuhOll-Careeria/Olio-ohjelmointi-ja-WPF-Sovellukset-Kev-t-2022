@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 3 (KT)", "Harjoit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus 4 (KT)", "Harjoitus 4 (KT)\Harjoitus 4 (KT).csproj", "{D8F15A44-039E-4194-8518-498E6885E974}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static Esimerkki", "Static Esimerkki\Static Esimerkki.csproj", "{7557F6A5-81A1-404C-8B78-272A76D25D67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static Esimerkki", "Static Esimerkki\Static Esimerkki.csproj", "{7557F6A5-81A1-404C-8B78-272A76D25D67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harjoitus5", "Harjoitus5\Harjoitus5.csproj", "{7A415BE4-C41C-47CD-951F-08D08B287EFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harjoitus5", "Harjoitus5\Harjoitus5.csproj", "{7A415BE4-C41C-47CD-951F-08D08B287EFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perintä", "Perintä\Perintä.csproj", "{57035ED3-E60E-413B-87CD-CD66177C385D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perintä", "Perintä\Perintä.csproj", "{57035ED3-E60E-413B-87CD-CD66177C385D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraktisuus", "Abstraktisuus\Abstraktisuus.csproj", "{32004F7D-EECF-4DC4-8040-633E8C75FC58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{57035ED3-E60E-413B-87CD-CD66177C385D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57035ED3-E60E-413B-87CD-CD66177C385D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57035ED3-E60E-413B-87CD-CD66177C385D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32004F7D-EECF-4DC4-8040-633E8C75FC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32004F7D-EECF-4DC4-8040-633E8C75FC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32004F7D-EECF-4DC4-8040-633E8C75FC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32004F7D-EECF-4DC4-8040-633E8C75FC58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
