@@ -6,15 +6,16 @@ namespace Harjoitus_7
     {
         static void Main(string[] args)
         {
-            Hissi hissi = new Hissi(1, 6);
-            string syöte;
+            Hissi hissi = new Hissi(1, 6); // Luodaan hissi olio, jossa min kerros 1 ja max kerros 6
+            string syöte; // käyttäjän antamaa syötettä varten
 
-            while (true)
+            while (true) // While silmukka 
             {
-                Console.WriteLine("Olet kerroksessa " + hissi.NykyinenKerros);
+                Console.WriteLine("Olet kerroksessa " + hissi.NykyinenKerros); 
                 Console.WriteLine("Mihin kerrokseen haluat siirtyä?");
-                syöte = Console.ReadLine();
+                syöte = Console.ReadLine(); // kysytään käyttäjän syöte
 
+                // Jos käyttäjä antaa syötteeksi "poistu" poistutaan hissistä käyttämällä "break" toimintoa
                 if (syöte == "poistu")
                 {
                     Console.WriteLine("Poistuit Hissistä");
@@ -22,8 +23,11 @@ namespace Harjoitus_7
                 }
                 else
                 {
+                    // jos käyttäjä antaa kerroksen niin yritetään siirtyä kerrokseen
                     hissi.NykyinenKerros = int.Parse(syöte);
                 }
+
+                // Silmukka jatkuu niin kauan kuin käyttäjä antaa "poistu" komennon
             }
         }
     }

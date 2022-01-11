@@ -6,12 +6,12 @@ namespace Abstraktisuus
     {
         static void Main(string[] args)
         {
-            Opiskelija opiskelija = new Opiskelija();
+            Opiskelija opiskelija = new Opiskelija(); // luodaan opiskelija
             opiskelija.Nimi = "Pekka";
+             
+            opiskelija.Puhu(); // opiskelija puhuu
 
-            opiskelija.Puhu();
-
-            Henkilö.KuinkaMonta();
+            Henkilö.KuinkaMonta(); // tulostetaan kuinka monta henkilöä on olemassa
         }
     }
 }

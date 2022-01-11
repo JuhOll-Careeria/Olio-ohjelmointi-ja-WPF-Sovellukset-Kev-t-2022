@@ -13,6 +13,7 @@ namespace Harjoitus_6
             instanssit++; // aina kun uusi eläin luodaan, lisätään instasseihin yksi lisää
         }
 
+        // Kutsumalla "Eläin.KuinkaMonta()" saadaan tietoon kuinka monta eläintä on yhteensä luotu
         public static void KuinkaMonta()
         {
             Console.WriteLine("Eläimiä on elossa: " + instanssit);
