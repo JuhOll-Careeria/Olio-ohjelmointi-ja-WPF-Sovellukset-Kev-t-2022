@@ -1,0 +1,14 @@
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.exe
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.deps.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.runtimeconfig.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.runtimeconfig.dev.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\bin\Debug\netcoreapp3.1\Perintä.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.csproj.AssemblyReference.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.AssemblyInfoInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.AssemblyInfo.cs
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.csproj.CoreCompileInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Perintä\obj\Debug\netcoreapp3.1\Perintä.genruntimeconfig.cache
