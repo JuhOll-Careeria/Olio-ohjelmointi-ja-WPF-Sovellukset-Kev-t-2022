@@ -1,0 +1,13 @@
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.exe
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.deps.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.runtimeconfig.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.runtimeconfig.dev.json
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\bin\Debug\netcoreapp3.1\Kokoelmat.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.AssemblyInfoInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.AssemblyInfo.cs
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.csproj.CoreCompileInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.dll
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat\obj\Debug\netcoreapp3.1\Kokoelmat.genruntimeconfig.cache
