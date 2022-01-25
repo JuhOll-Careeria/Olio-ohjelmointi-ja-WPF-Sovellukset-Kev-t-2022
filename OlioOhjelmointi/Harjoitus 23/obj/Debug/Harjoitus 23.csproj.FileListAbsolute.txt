@@ -1,0 +1,15 @@
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\bin\Debug\Harjoitus 23.exe.config
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\bin\Debug\Harjoitus 23.exe
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\bin\Debug\Harjoitus 23.pdb
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus 23.csproj.AssemblyReference.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\MainWindow.g.cs
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\App.g.cs
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus 23_MarkupCompile.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus 23_MarkupCompile.lref
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\MainWindow.baml
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus 23.g.resources
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus_23.Properties.Resources.resources
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus 23.csproj.GenerateResource.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus 23.csproj.CoreCompileInputs.cache
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus 23.exe
+D:\GitHub\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus 23\obj\Debug\Harjoitus 23.pdb
